@@ -20,20 +20,12 @@ Crear variable película y asignarle el valor “The avengers – Age of Ultron�
     g.     Porcentaje de descuento = 10% 
     h.     Fecha de estreno   
    
-17.  Concatenar las variables nombre, precio, sala, asiento usando usando Template String (Ejemplo: `Se reservo ${pelicula} en la sala ${sala}`  que diga: Se reservó la             película    Iron man en la sala 1 en el asiento j11 por un precio de $25.000 
-18.  
-19.  Adicionar espacios a la variable película al inicio y final de la palabra, por ejemplo: “Iron man.”  usando reasignación de variables. 
-20.  
-21.  Eliminar todos los espacios en blanco del anterior titulo. 
-22.  
-23.  Eliminar solo los espacios del final del anterior titulo. 
-24.  
-25.  Imprimir en consola la letra del asiento correspondiente en mayúscula 
-26.  
-27.  Imprimir el total de la venta con descuento incluido 
-28.  
-29.  Imprimir en consola si la venta  tuvo descuento, teniendo en cuenta la variable descuento y si tuvo descuento imprimir también el valor. 
-30.  
-31.  Crear un arreglo con al menos 5 películas y mostrar la información de cada uno recorriendo el arreglo. 
-32.  
-33.  Ordenar el arreglo de las películas alfabéticamente en orden ascendente por nombre.  */
+8.  Concatenar las variables nombre, precio, sala, asiento usando usando Template String (Ejemplo: `Se reservo ${pelicula} en la sala ${sala}`  que diga: Se reservó la             película    Iron man en la sala 1 en el asiento j11 por un precio de $25.000 
+9.  Adicionar espacios a la variable película al inicio y final de la palabra, por ejemplo: “Iron man.”  usando reasignación de variables. 
+10.  Eliminar todos los espacios en blanco del anterior titulo. 
+11.  Eliminar solo los espacios del final del anterior titulo. 
+12.  Imprimir en consola la letra del asiento correspondiente en mayúscula 
+13.  Imprimir el total de la venta con descuento incluido 
+14.  Imprimir en consola si la venta  tuvo descuento, teniendo en cuenta la variable descuento y si tuvo descuento imprimir también el valor. 
+15.  Crear un arreglo con al menos 5 películas y mostrar la información de cada uno recorriendo el arreglo.  
+16.  Ordenar el arreglo de las películas alfabéticamente en orden ascendente por nombre.  */
