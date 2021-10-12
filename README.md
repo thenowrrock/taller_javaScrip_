@@ -16,7 +16,7 @@
 14.    g.     Porcentaje de descuento = 10% 
 15.    h.     Fecha de estreno   
 16.    
-17.Concatenar las variables nombre, precio, sala, asiento usando usando Template String (Ejemplo: `Se reservo ${pelicula} en la sala ${sala}`  que diga: Se reservó la         película    Iron man en la sala 1 en el asiento j11 por un precio de $25.000 
+17.  Concatenar las variables nombre, precio, sala, asiento usando usando Template String (Ejemplo: `Se reservo ${pelicula} en la sala ${sala}`  que diga: Se reservó la             película    Iron man en la sala 1 en el asiento j11 por un precio de $25.000 
 18.   Adicionar espacios a la variable película al inicio y final de la palabra, por ejemplo: “Iron man.”  usando reasignación de variables. 
 19.   Eliminar todos los espacios en blanco del anterior titulo. 
 20.  Eliminar solo los espacios del final del anterior titulo. 
